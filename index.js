@@ -1,3 +1,5 @@
 // Write your solution in this file!
-var customerName = "Bob";
-
+var customerName = "bob";
+function setBestCustomer() {
+  customerName = "not bob";
+}
