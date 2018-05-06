@@ -5,5 +5,9 @@ function setBestCustomer() {
 }
 
 function setBestCustomer() {
+  var bestCustomer = 'not bob';
+}
+
+function overwriteBestCustomer() {
   
 }
