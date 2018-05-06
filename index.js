@@ -1,7 +1,7 @@
 // Write your solution in this file!
 var customerName = "bob";
 function upperCaseCustomerName() {
- customerName.toUpperCase()
+ return customerName.toUpperCase()
 }
 
 function setBestCustomer() {
